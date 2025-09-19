@@ -6,3 +6,9 @@ Screenshot Practice Part 2:
 
 Screenshot Practice Part 3:
 <img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/b08b66ca-2b90-4ff6-b037-47821015a34a" />
+
+Screenshot Assignment:
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/38cfee23-427d-42ec-b770-2ed1353b94cc" />
+
+Link APK:
+https://drive.google.com/drive/folders/1ExK02xzWH5TuxI2ADK_sROfpSoGIFg8j?usp=sharing
